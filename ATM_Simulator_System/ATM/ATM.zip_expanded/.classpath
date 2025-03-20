@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ATM/src"/>
+	<classpathentry kind="lib" path="ATM/jcalendar-tz-1.3.3-4.jar"/>
+	<classpathentry kind="lib" path="ATM/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="output" path="ATM/build/classes"/>
+</classpath>
